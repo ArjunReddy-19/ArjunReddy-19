@@ -82,4 +82,4 @@ Every challenge is a **new adventure**, a chance to grow 🌱, and a step closer
 
 If you want, I can make a **version with animated badges, cool icons for each section, and GitHub-style emojis popping** that will **literally make your README glow** 😎💥.
 
-Do you want me to do that next?
+
