@@ -48,7 +48,7 @@ Always ready to **take on challenges others shy away from** 💪 — because **l
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) 
 ![Seaborn](https://img.shields.io/badge/Seaborn-76B900?logo=seaborn&logoColor=white) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white) 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2C3E50?style=flat-square&logo=tensorflow&logoColor=FF6F00)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) 
 ![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)
 
