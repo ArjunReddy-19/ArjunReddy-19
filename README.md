@@ -61,11 +61,12 @@ Where **language meets machine intelligence** 🗣️🤖.
 Harnessing the power of **NLP & ML** to solve real-world problems with **linguistic flair** ✨.
 
 > Explore how I blend **cutting-edge tech** with a love for **language** to create solutions that truly **speak volumes** 🔊.
-## ResumeMind
+## *ResumeMind*
 Where **careers meet machine intelligence** 📄🤖. 
 Empowering users with **AI-driven** insights to **unlock their professional potential** 🚀.
 Discover how I combine **semantic analysis, ML**, and **sleek UX** to guide users toward the right roles 
-— turning **resumes into roadmaps** for success 🗺️✨.
+> turning **resumes into roadmaps** for success 🗺️✨.
+
 ---
 
 ## 🤝 Let's Connect & Collaborate!
