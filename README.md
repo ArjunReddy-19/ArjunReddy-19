@@ -12,6 +12,7 @@ Coding isn't just a skill; it's my **playground of innovation and creativity** �
 ## 🤖 AI & ML — My Playground
 
 **Artificial Intelligence (AI)** 🧠: Making machines smart, mimicking human thinking and problem-solving.
+
 **Machine Learning (ML)** 🤓: My focus within AI — teaching machines to **learn from data** and **improve automatically**.
 
 This dynamic duo fuels my passion to create technologies that **learn, adapt, and evolve** 🌱⚡.
