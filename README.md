@@ -87,6 +87,3 @@ Every challenge is a **new adventure**, a chance to grow 🌱, and a step closer
 
 ---
 
-If you want, I can make a **version with animated badges, cool icons for each section.
-
-
