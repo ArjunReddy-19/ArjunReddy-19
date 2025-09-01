@@ -1,6 +1,6 @@
 
 
-# 👋 Hey there! I'm Arjun Reddy Chethireddy - *The Code Alchemist*⚡
+# 👋 Hey there! I'm Arjun Reddy Chethireddy -*The Code Alchemist*⚡
 
 🤖 **Transforming Ideas into Impact with Machine Learning & Code Magic**
 
@@ -87,6 +87,6 @@ Every challenge is a **new adventure**, a chance to grow 🌱, and a step closer
 
 ---
 
-If you want, I can make a **version with animated badges, cool icons for each section, and GitHub-style emojis popping** that will **literally make your README glow** 😎💥.
+If you want, I can make a **version with animated badges, cool icons for each section.
 
 
