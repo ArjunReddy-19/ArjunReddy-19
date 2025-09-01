@@ -1,6 +1,7 @@
 
 
-# 👋 Hey there! I'm Arjun Reddy Chethireddy -*The Code Alchemist*⚡
+# 👋 Hey there! 
+# I'm Arjun Reddy Chethireddy -*The Code Alchemist*⚡
 
 🤖 **Transforming Ideas into Impact with Machine Learning & Code Magic**
 
