@@ -6,12 +6,7 @@
 
 **AI/ML learner 🧠 on a mission to turn data into intelligence and ideas into impact 🚀.**
 
-**Passionate about learning, building smart solutions, and pushing tech boundaries 💻📊.**
-
----
-
-
-This dynamic duo fuels my passion to create technologies that **learn, adapt, and evolve** 🌱⚡.
+>**Passionate about learning / building smart solutions / and pushing tech boundaries 💻📊.**
 
 ---
 
