@@ -12,16 +12,11 @@
 
 ## 🚀 My Mission
 
-To **master the art of Machine Learning & Data Science**, push tech boundaries, and craft solutions that truly matter 🌟.
+Mastering Machine Learning & Data Science to build impactful tech 🌟.
 
-I’m passionate about:
+Love solving complex problems, exploring algorithms, and creating smart apps 💻.
 
-* 🧩 **Cracking complex problems** with elegant code
-* 📚 **Diving deep into ML algorithms and frameworks**
-* 🌐 **Building next-gen web apps that speak human**
-* 🤝 **Sharing knowledge & growing through collaboration**
-
-Always ready to **take on challenges others shy away from** 💪 — because **learning never stops** 🚀.
+Always learning, always growing — one line of code at a time 🚀.
 
 ---
 
