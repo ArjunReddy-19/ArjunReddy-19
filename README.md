@@ -41,7 +41,7 @@ Always learning, always growing — one line of code at a time 🚀.
 
 
 
-## 🌟 Spotlight Project 
+## 📢 Spotlight Project 
 ## *Bhasha-Nyaya*
 
 Where **language meets machine intelligence** 🗣️🤖.
@@ -58,7 +58,7 @@ Discover how I combine **semantic analysis, ML**, and **sleek UX** to guide user
 
 ## 🤝 Let's Connect & Collaborate!
 
-🔗 [LinkedIn](https://www.linkedin.com/in/arjunreddychethireddy/) — Connect with Arjun
+☎️ [LinkedIn](https://www.linkedin.com/in/arjunreddychethireddy/) — Connect with Arjun
 
 ---
 
