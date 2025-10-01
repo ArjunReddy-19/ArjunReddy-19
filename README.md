@@ -33,7 +33,7 @@ I'm a relentless student devouring Machine Learning and AI like it's oxygen—fu
 ---
 
 ## 📢 **Spotlight Projects: Pure Fire**
-### **[Bhasha-Nyaya](https://github.com/yourusername/Bhasha-Nyaya)** 🗣️🤖
+### **[Bhasha-Nyaya](https://github.com/ArjunReddy-19/Bhasha-Nyaya)** 🗣️🤖
 **Where words wage war with machines.**  
 
 Unleashing NLP & ML fury on real-world chaos—with a linguistic edge that cuts deep. ✨  
@@ -42,7 +42,7 @@ Unleashing NLP & ML fury on real-world chaos—with a linguistic edge that cuts 
 
 [![Bhasha-Nyaya Badge](https://img.shields.io/badge/Bhasha--Nyaya-NLP%20Slayer-red?logo=python)](https://github.com/yourusername/Bhasha-Nyaya)
 
-### **[ResumeMind](https://github.com/yourusername/ResumeMind)** 📄🤖
+### **[ResumeMind](https://github.com/ArjunReddy-19/AI-Resume-Reviewer)** 📄🤖
 **Where hustles collide with AI overlords.**  
 
 Arming warriors with intel that unlocks god-mode careers. 🚀 *Semantic shredding + ML muscle + UX that slaps* = Resumes reborn as victory maps. 🗺️✨  
