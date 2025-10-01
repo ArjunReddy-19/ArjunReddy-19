@@ -34,13 +34,18 @@ I'm a relentless student devouring Machine Learning and AI like it's oxygen—fu
 
 ## 📢 **Spotlight Projects: Pure Fire**
 ### **[Bhasha-Nyaya](https://github.com/ArjunReddy-19/Bhasha-Nyaya)** 🗣️🤖
-**Where words wage war with machines.**  
+## Where words wage war with machines—rewiring linguistic chaos into AI territory.
 
-Unleashing NLP & ML fury on real-world chaos—with a linguistic edge that cuts deep. ✨  
+Unleashing NLP & ML fury on bias, multilingual mazes, and cultural cracks. This beast analyzes and dominates—for justice and precision. ✨
 
-*Dive in:* Witness how I fuse bleeding-edge tech and raw language love to drop solutions that *roar* volumes. No cap. 🔊  
+## Battlefield Breakdown (Four Key Strikes):
 
-[![Bhasha-Nyaya Badge](https://img.shields.io/badge/Bhasha--Nyaya-NLP%20Slayer-red?logo=python)](https://github.com/yourusername/Bhasha-Nyaya)
+**Multilingual Mayhem** : Transformers tuned on Indic-English data—92% sentiment slay across dialects. 🌍
+
+**Bias Buster**: Pipelines hunting prejudices in texts; no mercy for unfair algos. 🛡️
+
+**Real-Time Roar**: Streamlit + PyTorch for instant translate/classify strikes. ⚡
+
 
 ### **[ResumeMind](https://github.com/ArjunReddy-19/AI-Resume-Reviewer)** 📄🤖
 **Where hustles collide with AI overlords.**  
