@@ -22,13 +22,30 @@ I'm a relentless student devouring Machine Learning and AI like it's oxygen—fu
 ---
 
 ## 🧰 **My Arsenal: Locked & Loaded**
-### 💻 **Languages – My Weapons of Choice**
-`Python` 🐍 `Java` ☕ `HTML` `CSS` `JavaScript` `ReactJS` ⚡  
-
-### 🤖 **ML/DS – The Heavy Artillery**
-`NumPy` `Pandas` 🐼 `Seaborn` `Matplotlib` 📊 `TensorFlow` `PyTorch` 🔥 `Keras`  
 
 
+  <div align="center">
+
+## 💻 Languages – My Weapons of Choice
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+## 🤖 ML/DS – The Heavy Artillery
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+
+</div>
 
 ---
 
