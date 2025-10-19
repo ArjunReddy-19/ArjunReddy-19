@@ -5,7 +5,7 @@
 🧠 **AI/ML Beast on a Rampage**  
 Slamming data into straight-up intelligence. Forging ideas into world-shaking impact. No mercy. 🚀  
 
-*Obsessed with devouring knowledge | Hammering out killer solutions | Shattering tech limits.* 💻📊  
+**Obsessed with devouring knowledge | Hammering out killer solutions | Shattering tech limits.** 💻📊  
 
 </div>
 
@@ -28,7 +28,7 @@ I'm a relentless student devouring Machine Learning and AI like it's oxygen—fu
 ### 🤖 **ML/DS – The Heavy Artillery**
 `NumPy` `Pandas` 🐼 `Seaborn` `Matplotlib` 📊 `TensorFlow` `PyTorch` 🔥 `Keras`  
 
-*(Pro move: These bad boys have shipped more wins than I can count. What's your poison?)*  
+
 
 ---
 
