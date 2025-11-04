@@ -80,7 +80,7 @@ Down to co-pilot some chaos? Hit me—AI rifts, code benders, or straight domina
 
 ☎️ **[LinkedIn – Squad Up with Arjun](https://linkedin.com/in/arjunreddychethireddy)** 💥  
 
-*(DMs open. Ideas? Let's turn 'em nuclear.)*  
+*(DMs open. Ideas? Let's turn.)*  
 
 ---
 
