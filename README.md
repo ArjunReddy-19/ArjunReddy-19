@@ -3,7 +3,7 @@
 # 👋 **Yo, what's up? I'm Arjun Reddy Chethireddy**
 
 🧠 **AI/ML Beast on a Rampage**  
-Slamming data into straight-up intelligence. Forging ideas into world-shaking impact. No mercy. 🚀  
+Slamming data into straight-up intelligence. Forging ideas into world-shaking impact.🚀  
 
 **Obsessed with devouring knowledge | Hammering out killer solutions | Shattering tech limits.** 💻📊  
 
